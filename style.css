@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.jumbotron{
+    width: 500px;
+    margin-top : 10px ;
+    margin-bottom: 10px;
+    padding-top : 10px ;
+    padding-bottom: 10px;
+}
+
+img{
+    width: 400px;
+}
